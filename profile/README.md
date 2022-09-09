@@ -1,3 +1,9 @@
 # Veganner(비거너)
 
-![Generic badge](https://img.shields.io/badge/JAVA-11-important.svg) ![Generic badge](https://img.shields.io/badge/SpringBoot-2.7.1-brightgreengreen.svg) ![Generic badge](https://img.shields.io/badge/Gradle-7.4.1-lightgrey.svg) ![Generic badge](https://img.shields.io/badge/MariaDB-10.2-yellow.svg)
+<br />
+
+![Generic badge](https://img.shields.io/badge/-iOS-000000?style=flat&logo=iOS%logoColor=white) 
+![Generic badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![Generic badge](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=Swift&logoColor=white) 
+![Generic badge](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=Spring&logoColor=white)
+![Generic badge](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=Spring&logoColor=white)
